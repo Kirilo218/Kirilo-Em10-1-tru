@@ -1,0 +1,10 @@
+C:\Users\kiril\source\repos\ok2\ok2\bin\Debug\ok2.exe.config
+C:\Users\kiril\source\repos\ok2\ok2\bin\Debug\ok2.exe
+C:\Users\kiril\source\repos\ok2\ok2\bin\Debug\ok2.pdb
+C:\Users\kiril\source\repos\ok2\ok2\obj\Debug\ok2.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\ok2\ok2\obj\Debug\ok2.Form1.resources
+C:\Users\kiril\source\repos\ok2\ok2\obj\Debug\ok2.Properties.Resources.resources
+C:\Users\kiril\source\repos\ok2\ok2\obj\Debug\ok2.csproj.GenerateResource.cache
+C:\Users\kiril\source\repos\ok2\ok2\obj\Debug\ok2.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\ok2\ok2\obj\Debug\ok2.exe
+C:\Users\kiril\source\repos\ok2\ok2\obj\Debug\ok2.pdb
