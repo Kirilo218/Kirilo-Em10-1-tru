@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiril\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\homework\\HmWrk1\\ok2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{393C193A-55E1-4AFA-8E41-2B4F314BD937}|ok2\\ok2.csproj|c:\\users\\kiril\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\homework\\hmwrk1\\ok2\\ok2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C193A-55E1-4AFA-8E41-2B4F314BD937}|ok2\\ok2.csproj|solutionrelative:ok2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C193A-55E1-4AFA-8E41-2B4F314BD937}|ok2\\ok2.csproj|C:\\Users\\kiril\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\homework\\HmWrk1\\ok2\\ok2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393C193A-55E1-4AFA-8E41-2B4F314BD937}|ok2\\ok2.csproj|solutionrelative:ok2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C193A-55E1-4AFA-8E41-2B4F314BD937}|ok2\\ok2.csproj|C:\\Users\\kiril\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\homework\\HmWrk1\\ok2\\ok2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C193A-55E1-4AFA-8E41-2B4F314BD937}|ok2\\ok2.csproj|solutionrelative:ok2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\homework\\HmWrk1\\ok2\\ok2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ok2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\homework\\HmWrk1\\ok2\\ok2\\Form1.Designer.cs",
+              "RelativeToolTip": "ok2\\Form1.Designer.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAtwIgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:36:14.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\homework\\HmWrk1\\ok2\\ok2\\Form1.cs",
+              "RelativeDocumentMoniker": "ok2\\Form1.cs",
+              "ToolTip": "C:\\Users\\kiril\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\homework\\HmWrk1\\ok2\\ok2\\Form1.cs",
+              "RelativeToolTip": "ok2\\Form1.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAE4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:51:34.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kiril\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\homework\\HmWrk1\\ok2\\ok2\\Form1.cs",
+              "RelativeDocumentMoniker": "ok2\\Form1.cs",
+              "ToolTip": "C:\\Users\\kiril\\source\\repos\\ok2\\ok2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ok2\\ok2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:50:12.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
