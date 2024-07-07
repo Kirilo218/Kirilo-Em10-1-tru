@@ -1,0 +1,14 @@
+C:\Users\kiril\Desktop\ok\ok\bin\Debug\ok.exe.config
+C:\Users\kiril\Desktop\ok\ok\bin\Debug\ok.exe
+C:\Users\kiril\Desktop\ok\ok\bin\Debug\ok.pdb
+C:\Users\kiril\Desktop\ok\ok\obj\Debug\ok.csproj.AssemblyReference.cache
+C:\Users\kiril\Desktop\ok\ok\obj\Debug\ok.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Desktop\ok\ok\obj\Debug\ok.exe
+C:\Users\kiril\Desktop\ok\ok\obj\Debug\ok.pdb
+C:\Users\kiril\OneDrive\Робочий стіл\ok\ok\obj\Debug\ok.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Робочий стіл\ok\ok\obj\Debug\ok.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Робочий стіл\ok\ok\obj\Debug\ok.exe
+C:\Users\kiril\OneDrive\Робочий стіл\ok\ok\obj\Debug\ok.pdb
+C:\Users\kiril\OneDrive\Робочий стіл\ok\ok\bin\Debug\ok.exe.config
+C:\Users\kiril\OneDrive\Робочий стіл\ok\ok\bin\Debug\ok.exe
+C:\Users\kiril\OneDrive\Робочий стіл\ok\ok\bin\Debug\ok.pdb
